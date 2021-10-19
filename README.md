@@ -5,7 +5,7 @@
 - 📫 Me contate pelo E-mail: fdavi088@gmail.com
 <div>
   <a href="https://github.com/Davi1610">
-  <img height=160em aling:"center" src="https://github-readme-stats.vercel.app/api?username=Davi1610&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height=160em aling:"center" src="https://github-readme-stats.vercel.app/api?username=Davi1610&show_icons=true&theme=blue&include_all_commits=true&count_private=true"/>
   <img height=160em aling:"center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davi1610&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
