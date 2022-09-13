@@ -1,8 +1,8 @@
 ### Olá! Eu me chamo Davi Fonseca
 
-- 🔭 Atualmente estou em busca do meu primeiro emprego
-- 🌱 Estou cursando o Técnico em Informática
-- 📫 Me contate pelo E-mail: fdavi088@gmail.com
+- 🔭 Atualmente estou em busca de uma vaga na área de programação
+- 🌱 Estou cursando o tecnólogo em Análise e Desenvolvimento de Sistemas na UNIP 
+- 📫 Me contate pelo E-mail: davifonseca.dev@gmail.com
 <div>
   <a href="https://github.com/Davi1610">
   <img height=160em aling:"center" src="https://github-readme-stats.vercel.app/api?username=Davi1610&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
